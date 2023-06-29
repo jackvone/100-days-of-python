@@ -13,7 +13,7 @@ height = 185.5
 print("your height is: "+str(height)+"cm")
 #print(type(height))
 
-human = True
+Alien = True
 print("are you a human: "+str(human))
 #print(type(human))
 
