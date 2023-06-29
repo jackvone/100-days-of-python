@@ -1,0 +1,20 @@
+# multiple assigments = multiple variables ayt the same time
+
+# name = "Jack"
+# age = 38
+# Alien = True
+
+name, age, Alien = "Jack", 38, True
+
+print(name)
+print(age)
+print(Alien)
+
+Jack = 38
+John = 38
+Pat = 38
+
+Jack = John = Pat = 38
+print(Jack)
+print(John)
+print(Pat)
