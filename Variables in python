@@ -14,6 +14,6 @@ print("your height is: "+str(height)+"cm")
 #print(type(height))
 
 Alien = True
-print("are you a human: "+str(human))
-#print(type(human))
+print("are you a Alien: "+str(Alien))
+#print(type(Alien))
 
