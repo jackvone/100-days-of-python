@@ -1,0 +1,17 @@
+x = "Python is great"
+print(x)
+
+x = "Python"
+y = "is"
+z = "alien"
+print(x, y, z)
+
+
+x = "Python "
+y = "is "
+z = "cool"
+print(x + y + z)
+
+x = 50
+y = 100
+print(x + y)
