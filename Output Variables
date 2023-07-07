@@ -15,3 +15,14 @@ print(x + y + z)
 x = 50
 y = 100
 print(x + y)
+
+
+x = "awesome"
+
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)
