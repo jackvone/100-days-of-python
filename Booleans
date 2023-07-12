@@ -1,0 +1,6 @@
+Booleans represent one of two values: True or False.
+print(11 > 9)
+print(9 == 9)
+print(12 < 9)
+
+print(bool(5))
